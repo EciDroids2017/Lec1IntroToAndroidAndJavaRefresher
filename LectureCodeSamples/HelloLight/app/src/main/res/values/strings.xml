@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloLight</string>
+    <!--This is a comment use ctrl slash-->
+    <string name="hello">Aloha</string>
+    <string name="btn_text_say_hello">Say hello</string>
+
+</resources>
